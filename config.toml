@@ -1,5 +1,5 @@
 theme = "lynx"
-title = "Lynx"
+title = "The Mad Hatter"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
