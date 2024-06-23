@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "The Mad hatter"
-  headline = "A The Mad Hatter face painter home"
+  headline = ""
   image = "author.png"
   footer = ""
   links = [
