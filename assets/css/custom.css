@@ -11,3 +11,7 @@
 .prose {
   text-align: left;
 }
+
+.link-facebook-messenger {
+  @apply bg-primary-700 text-white hover:brightness-90;
+}

@@ -10,7 +10,8 @@ disableKinds = ["taxonomy", "term"]
   image = "author.png"
   footer = ""
   links = [
-    { link = { href = "https://m.me/annMarieTheMadHatter", text = "Messenger", icon = "messenger" } },
+    { link = { href = "about/", text = "About me" } },
+    { facebook-messenger = "https://m.me/annMarieTheMadHatter" },
     { instagram = "https://www.instagram.com/the_mad___hatter/" },
     { facebook = "https://fb.com/annMarieTheMadHatter" },
   ]
