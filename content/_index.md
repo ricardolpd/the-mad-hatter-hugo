@@ -2,6 +2,15 @@
 description: "Home Page"
 ---
 
-Hi, I am Ann-Marie by day, the Mad Hatter at your party or corporate events. This is the home to all my socials.
-I provide face painting services for your parties or events.
-Get in touch through Messenger, and feel free to browse through my work on instagram or Facebook.
+Hi, Welcome to my homepage, where you can find all my socials. I am Ann-Marie by day, and The Mad Hatter face painter at your party/corporate events.
+
+What can you expect from me:
+
+- 7 years of experience, having painted at many events throughout Merseyside.
+- Many years of experience as teaching assistant at different schools in Merseyside.
+- A soft spot for all SEND children.
+- DBS checked.
+
+Come and say hi through any of the links below, leave a comment or a follow.
+
+Look forward to speak with you.

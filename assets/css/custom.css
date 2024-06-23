@@ -7,3 +7,7 @@
     rgba(252, 176, 69, 1) 100%
   );
 }
+
+.prose {
+  text-align: left;
+}
